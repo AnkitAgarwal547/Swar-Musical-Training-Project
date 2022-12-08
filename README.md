@@ -2,12 +2,12 @@
 Swar Musical Training Web Application
 
 
-Project Description:
+**Project Description:**
 
-1. Project Title:
-    >> Swar Musical Training mobile application and dashboard web application
+**1. Project Title:**    
+>> Swar Musical Training mobile application and dashboard web application
 
-2. Requirement:
+**2. Requirement:**
     >> The requirement is to create a musical training mobile application and its management system where the admin would be able to create a repository of musical syllables called thaats and upload their sounds.
 
     >> Apart from that, the admin/instructor would be able to create a sequence of thaats that a user could learn and play with the help of the mobile application.
