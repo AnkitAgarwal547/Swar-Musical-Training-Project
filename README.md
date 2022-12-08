@@ -1,7 +1,6 @@
 # Swar-Musical-Training-Project
 Swar Musical Training Web Application
 
-
 **Project Description:**
 
 **1. Project Title:**    
