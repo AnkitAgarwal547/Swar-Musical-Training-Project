@@ -190,10 +190,7 @@ export default {
                 items:[],
                 url:url1.url,
                 question_id:'',
-                thaats:[
-                    // "Bilawal","Khamaaj","Kaafi","Asavari","Bahiravi",
-                    // "Kalyan","Marwa","Purvi","Todi","Bhairav"
-                ],
+                thaats:[],
                 successMessage:'',
                 search:'',
                 searchOption:null,
